@@ -1,0 +1,132 @@
+<mjml>
+<mj-body background-color="#F4F4F4">
+<mj-section background-color="#ffffff" text-align="left">
+         <mj-column vertical-align="middle" width="12%">
+        <mj-image align="left" href="#" width="50px" src="./assets/Ellipse.png" alt="co-founder" padding="10px"></mj-image>
+            </mj-column>
+         <mj-column vertical-align="middle" width="30%">
+        <mj-text font-weight="600" font-size="20px" padding="0">Jane Smith</mj-text>
+        <mj-text padding="10px 10px 0 0" color="#cccccc" font-size="10px">
+          Co-Founder
+        </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle" width="55%">
+        <mj-image src="./assets/Logo.png" alt="logo" width="150px" align="right"/>
+        </mj-column>
+</mj-section>
+<mj-section background-color="#ffffff">
+  <mj-column width="600px">
+    <mj-image src="./assets/bg.png" alt="bg-img" />
+    <mj-text font-size="34px">
+      Save €10 on your next order
+    </mj-text>
+    <mj-text font-size="18px" line-height="25px">
+      Hello Herbert Jones. Welcome to the PRFCT FIT Store!
+      I’m Jane Stith, Co-Founder of <a href="#">prfctfit.com</a>.
+      We’re happy to have you here :) We’ve prepared  a little gift for you —
+      €10 off your next order.  
+      </mj-text>
+      <mj-text font-size="18px" line-height="25px">
+      And if that isn’t enough, we’ll be keeping you updated with the latest
+      releases, fashion trends, special offers and more. 
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#ffffff">
+  <mj-column width="100%">
+    <mj-text font-size="34px">
+      Your €10 Voucher Code*:
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#ffffff" padding-left="25px">
+  <mj-column width="50%" padding="10px" background-color="#E0E1E2" border-radius="20px">
+    <mj-text font-size="34px" align="center">
+      MJ2-S23-Q77
+    </mj-text>
+  </mj-column>
+   <mj-column width="50%">
+   <mj-button width="150px" padding="0 10px" font-size="20px" align="left" inner-padding="25px" border-radius="20px" background-color="#1F8FFB" color="#ffffff">
+     Use it
+   </mj-button>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#ffffff" padding="0 25px">
+  <mj-column width="100%">
+  <mj-text color="#B6B6B6" padding="0" font-size="18px">
+     *Full terms and conditions can be found here
+   </mj-text>  
+  </mj-column>
+</mj-section>
+<mj-section background-color="#ffffff">
+  <mj-column width="50%">
+    <mj-text font-size="34px">
+      You might like
+    </mj-text>
+  </mj-column>
+  <mj-column width="50%">
+    <mj-text text-decoration="none" font-size="24px">
+      <a href="#">Discover more ></a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#ffffff">
+  <mj-column width="30%">
+    <mj-image src="./assets/sneakers.png" alt="socks" />
+    <mj-text>
+      New Balance MSX90RPB (Grey)
+      <p style="color:#515759;">€135.00</p>
+    </mj-text>
+  </mj-column>
+  <mj-column width="30%">
+    <mj-image src="./assets/socks.png" alt="socks" />
+    <mj-text>
+      Stussy Stripe Crew (White - Orange)
+      <p style="color:#515759;">€20.00</p>
+    </mj-text>
+  </mj-column>
+  <mj-column width="30%">
+    <mj-image src="./assets/backpack.png" alt="backpack" />
+    <mj-text>
+      Fjallqraven Kanken No.2 Total (Black)
+      <p style="color:#515759;">€175.00</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="100%">
+    <mj-text font-size="18px" align="center" color="#B6B6B6">
+      Partnership with the famous brands:
+    </mj-text>
+  </mj-column>
+  <mj-column vertical-align="middle" width="20%">
+    <mj-image width="50px" src="./assets/Vans_company_logo.png" alt="vans-logo" />
+  </mj-column>
+  <mj-column vertical-align="middle" width="20%">
+    <mj-image width="50px" src="./assets/adidas.png" alt="adidas-logo" />
+  </mj-column>
+    <mj-column vertical-align="middle" width="20%">
+     <mj-image width="50px" src="./assets/stussy-seeklogo.com.png" alt="stussy-logo" />
+  </mj-column>
+    <mj-column vertical-align="middle" width="20%">
+       <mj-image width="50px" src="./assets/fjallraven-vector-logo.png" alt="fjallraven-logo" />
+  </mj-column>
+    <mj-column vertical-align="middle" width="20%">
+        <mj-image width="50px" src="./assets/nike.png" alt="nike-logo" />
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="50%">
+    <mj-text align="left">
+      <a href="#"> Follow @prfctfit on twitter –></a>
+    </mj-text>
+  </mj-column>
+    <mj-column width="50%">
+    <mj-text align="right">
+      <a href="#" style="color: #cccccc;"> Unsubscribe </a>
+    </mj-text>
+  </mj-column>
+  
+</mj-section>
+</ml-body>
+</mjml>
